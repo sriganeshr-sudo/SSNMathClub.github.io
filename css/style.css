@@ -845,7 +845,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 50px;
   text-align: center;
   border: 1px solid #e6e6e6;
-  height: 350px;
+  height: 300px;
   position: relative;
   background: #fafafa;
 }
@@ -1113,7 +1113,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 50px;
   text-align: center;
   border: 1px solid #e6e6e6;
-  height: 400px;
+  height: 600px;
   position: relative;
   background: #fafafa;
 }
@@ -1222,6 +1222,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .social-links {
   padding-bottom: 20px;
+  text-align: center;
 }
 
 #contact .social-links a {

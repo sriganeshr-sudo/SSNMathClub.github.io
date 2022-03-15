@@ -531,7 +531,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 400;
   margin-top: 20px;
   margin-bottom: 25px;
-  text-align: justify;
+  text-align: center;
   color: #000;
 }
 .flexc {
@@ -1113,7 +1113,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 50px;
   text-align: center;
   border: 1px solid #e6e6e6;
-  height: 640px;
+  height: 300px;
   position: relative;
   background: #fafafa;
 }
